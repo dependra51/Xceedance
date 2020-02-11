@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\goHarness\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\goHarness\\.nuget\\packages"
+    ]
+  }
+}
